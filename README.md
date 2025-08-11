@@ -13,11 +13,10 @@
 </p>
 
 
-### Key points
-*   creator of [Javarush Community](https://github.com/javarushcommunity) and [Template Repository](https://github.com/template-repository) organizations.
-*   creator and author of [romankh3](https://t.me/romankh3) telegram channel. Subscribe to recieve messages about my open-source activities.
-*   Write posts about software development.
-*   Currently working in [Epam Systems](https://www.linkedin.com/company/epam-systems/)
+### Ключевые моменты
+*   мой опыт работы включает анализ данных из 1С для крупной ритейл компании.
+*   закончила курс "Аналитик данных" от Яндекс Практикум.
+*   на данный момент работаю в ООО Умный ритейл (Самокат).
 
 ## 🛠 Technical Stack
 *   Java/Kotlin/Groovy/COBOL languages
