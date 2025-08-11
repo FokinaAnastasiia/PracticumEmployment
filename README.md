@@ -25,9 +25,9 @@
 *   Matplotlib, Seaborn
 *   DataLens, Power BI
 
-### My opensource projects
+### Мои открытые проекты
 
-*   [image-comparison](https://github.com/romankh3/image-comparison) - Published on Maven Central Java Library that compares 2 images with the same sizes and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison.
+*   [image-comparison](https://github.com/FokinaAnastasiia/Practicum_projects-) - Published on Maven Central Java Library that compares 2 images with the same sizes and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison.
 *   [JavaRush TelegramBot](https://github.com/javarushcommunity/javarush-telegrambot) - JavaRush Telegram bot from the community to the community
 *   [Skyscanner Flight API client](https://github.com/romankh3/skyscanner-flight-api-client) - Published on Maven Central Java Client for a Skyscanner Flight Search API hosted in Rapid API
 *   [Flights-monitoring](https://github.com/romankh3/flights-monitoring) - Application for monitoring flight cost based on Skyscanner API
@@ -38,10 +38,5 @@
    </a>
 </div>
 
-
-
-Мой опыт работы включает анализ данных из 1С для крупной ритейл компании, а также создание отчётов и дашбордов для визуализации результатов. 
-
-В будущем я планирую продолжать углублять свои навыки в области анализа данных, изучать новые технологии и инструменты.
 
 Я открыта для предложений о работе и готова обсуждать возможности сотрудничества.
